@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.166.25.104:8081/repository/nick/"
+    "registry": "http://172.31.86.244:8081/repository/gtb_hosted/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
