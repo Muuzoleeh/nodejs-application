@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JOMACS-IT/nodejs-application"
+    "url": "https://github.com/Muuzoleeh/nodejs-application"
   },
   "keywords": [
     "node",
     "JOMACS IT",
     "express"
   ],
-  "author": "Femi Olaniran",
+  "author": "Ngmenanaah Muuzoleeh",
   "license": "Jomacs IT"
 }
